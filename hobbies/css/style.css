@@ -32,15 +32,20 @@
 
 }
 
-.banner-holder{
+/* .banner-holder{
 
-    background-image: url('../MicrosoftTeams-image\ \(15\).png');
+    background-image: url('../img/pic14.jpeg');
 
-    background-size: cover;
+    background-size: cover; 
 
     background-position: bottom;
 
 }
+
+.banner-content{
+    background-image: url('../img/pic14.jpeg');
+    z-index: 2000;
+} */
 
  
 
